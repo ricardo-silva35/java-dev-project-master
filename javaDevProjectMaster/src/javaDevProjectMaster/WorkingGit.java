@@ -27,6 +27,16 @@ public class WorkingGit {
 			this.age = age;
 		}
 
+		private Double height;
+		
+		public Double getHeight() {
+			return height;
+		}
+
+		public void setHeight(Double height) {
+			this.height = height;
+		}
+
 		private String name;
 		
 		private String lastName;
